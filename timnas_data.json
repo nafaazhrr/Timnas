@@ -1,0 +1,83 @@
+{
+    "result": [
+    {"No": "23",
+        "Nama": "Nadeo Argawinata",
+        "Tanggal_lahir": "1997-03-09",
+        "Posisi": "Penjaga Gawang",
+        "Klub": "Bali United",
+        "Foto": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2022/12/30/20221230_192527jpg-20221230073900.jpg"
+      },
+      {
+        "No": "5",
+        "Nama": "Rizky Ridho",
+        "Tanggal_lahir": "2001-11-20",
+        "Posisi": "Bek Tengah",
+        "Klub": "Persebaya Surabaya",
+        "Foto": "https://www.um-surabaya.ac.id/uploads/home/gambar_konten/foto_konten-rizky-ridho-ramadhani-mahasiswa-um-surabaya-antar-timnas-sepakbola-u-22-juarai-sea-games-2023-admin-tDaSti.webp"
+      },
+      {
+        "No": "8",
+        "Nama": "Witan Sulaiman",
+        "Tanggal_lahir": "2001-10-08",
+        "Posisi": "Gelandang",
+        "Klub": "Persija",
+        "Foto": "https://pict.sindonews.net/dyn/620/pena/news/2022/12/29/11/982547/witan-sulaeman-gagal-bobol-gawang-kosong-thailand-disebut-mirip-darwin-nunez-hgl.jpg"
+      },
+      {
+        "No": "10",
+        "Nama": "Egy Maulana Vikri",
+        "Tanggal_lahir": "2000-07-07",
+        "Posisi": "Gelandang",
+        "Klub": "Dewa United FC",
+        "Foto": "https://img.okezone.com/okz/500/content/2023/11/16/51/2921365/penyebab-shin-tae-yong-coret-egy-maulana-vikri-dan-edo-febriansah-jelang-laga-timnas-indonesia-vs-irak-di-kualifikasi-piala-dunia-2026-3OD8QLcW1Y.jpg"
+      },
+      {
+        "No": "12",
+        "Nama": "Pratama Arhan",
+        "Tanggal_lahir": "2001-12-21",
+        "Posisi": "Bek Kiri",
+        "Klub": "Tokyo Verdy",
+        "Foto": "https://cdn1-production-images-kly.akamaized.net/H1EfP-59d7oZFiSIq2ZV37HcDj0=/0x0:0x0/800x450/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,700,20,0)/kly-media-production/medias/4426403/original/009268600_1683974162-033A9039.JPG"
+      },
+      {
+        "No": "14",
+        "Nama": "Asnawi Mangkualam",
+        "Tanggal_lahir": "1999-10-04",
+        "Posisi": "Bek Kanan",
+        "Klub": "Ansan Greeners",
+        "Foto": "https://cdn0-production-images-kly.akamaized.net/h53LbFl9tzXS_ynZqnmFvsI2MuE=/800x800/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3859475/original/079782300_1640846896-269682217_437882561377432_5894104055758407690_n.jpg"
+      },
+      {
+        "No": "30",
+        "Nama": "Elkan Baggott",
+        "Tanggal_lahir": "2002-10-23",
+        "Posisi": "Bek Tengah",
+        "Klub": "Ipswich Town",
+        "Foto": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bolasport.com%2Fread%2F313946819%2Fmedia-inggris-apresiasi-pilihan-shin-tae-yong-yang-terus-pilih-elkan-baggott-di-timnas-indonesia&psig=AOvVaw3Ss0cyeUUsD67NNrW9B-18&ust=1700467615818000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCy99LNz4IDFQAAAAAdAAAAABAE"
+      },
+      {
+        "No": "7",
+        "Nama": "Marselino Ferdinan",
+        "Tanggal_lahir": "2004-09-09",
+        "Posisi": "Penyerang",
+        "Klub": "KMSK Deinze",
+        "Foto": "https://cdns.klimg.com/bola.net/resized/810x540/library/upload/21/2022/11/996x664/marselino-ferdinan-i_1c242b0.jpg"
+      },
+      {
+        "No": "23",
+        "Nama": "Marc Klok",
+        "Tanggal_lahir": "1993-04-20",
+        "Posisi": "Gelandang",
+        "Klub": "Persib",
+        "Foto": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2023/10/16/20231016_171546jpg-20231016052553.jpg"
+      },
+      {
+        "No": "21",
+        "Nama": "Ramadhan Sananta",
+        "Tanggal_lahir": "2002-11-27",
+        "Posisi": "Penyerang",
+        "Klub": "Persis",
+        "Foto": "https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/05/05/FotoJet-2023-05-05T125912780-2243691159.jpg"
+      }
+    ]
+  }
